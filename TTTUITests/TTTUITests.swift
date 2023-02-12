@@ -1,13 +1,7 @@
-//
-//  Assignment13UITests.swift
-//  Assignment13UITests
-//
-//  Created by Eman on 16/04/1444 AH.
-//
 
 import XCTest
 
-final class Assignment13UITests: XCTestCase {
+final class TTTUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

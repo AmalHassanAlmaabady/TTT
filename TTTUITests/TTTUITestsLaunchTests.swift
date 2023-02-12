@@ -1,13 +1,8 @@
-//
-//  Assignment13UITestsLaunchTests.swift
-//  Assignment13UITests
-//
-//  Created by Eman on 16/04/1444 AH.
-//
+
 
 import XCTest
 
-final class Assignment13UITestsLaunchTests: XCTestCase {
+final class TTTUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

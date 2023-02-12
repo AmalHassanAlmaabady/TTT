@@ -1,14 +1,9 @@
-//
-//  Assignment13Tests.swift
-//  Assignment13Tests
-//
-//  Created by Eman on 16/04/1444 AH.
-//
+
 
 import XCTest
-@testable import Assignment13
+@testable import TTT
 
-final class Assignment13Tests: XCTestCase {
+final class TTTTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
